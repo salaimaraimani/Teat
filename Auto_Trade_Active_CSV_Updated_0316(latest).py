@@ -50,7 +50,8 @@ exitDay=datetime.datetime.now()
 #     #print("Trading subscription got expired")
 #     sys.exit()
    
-
+#fcvasxdf
+#sadfasd
 #URL to store reports and donelist in some path
 newpath=r'C:\Temp\stooxoreport'
 dirpath = Path(newpath)
