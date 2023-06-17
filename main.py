@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # crawl IMDB Top 250 and randomly select a movie
+#check 123
 
 URL = 'http://www.imdb.com/chart/top'
 
